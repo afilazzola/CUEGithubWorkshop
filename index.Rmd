@@ -4,7 +4,7 @@ date: "Feb 25 2021"
 output: html_document
 ---
 
-<div style="width:500px; height=350px">
+<div style="width:500px; height=350px;" onclick="window.open('https://myoctocat.com/');">
 ![](images/alex.png)
 </div>
 
@@ -16,7 +16,7 @@ Feb 25 2021   | **Instructor**: [Alessandro Filazzola](http://www.filazzola.info
 
 ## General Information
 
-Statistical software that are also programming languages, such as R, are excellent tools for conducting analyses of biological data. However, many users are not taking full advantage of their capabilities. This workshop is an introduction to some of the resources that are available to R users that have been developed and implemented in the larger programming community. No prior knowledge of R will be necessary, but this workshop will not be an introduction to R basics. Instead, we will focus on using R Studio and Github to easily sync your data and analyses online. Within this workshop we will explore how to maximize reproducibility, collaborate internationally on statistical analyses, present data summaries, data management, and the promotion of open science
+Statistical software that are also programming languages, such as R, are excellent tools for conducting analyses of biological data. However, many users are not taking full advantage of their capabilities. This workshop is an introduction to some of the resources that are available to R users that have been developed and implemented in the larger programming community. No prior knowledge of R will be necessary, but this workshop will not be an introduction to R basics. Instead, we will focus on using R Studio and Github to easily sync your data and analyses online. Within this workshop we will explore how to maximize reproducibility, collaborate internationally on statistical analyses, present data summaries, data management, and the promotion of open science. This workshops will be a whirlwind tour of the functionality and features of using Git with Rstudio. 
 
 **Who**: The course is aimed at R beginners or experienced analysts. You do not need to have previous knowledge of R.
 
@@ -47,7 +47,7 @@ Time   | Goal
 Please install Git **before** installing R Studio. This allows seamless integration between the two programs because R Studio looks for Git on your computer, but Git does not look for R Studio. In the past, installation in the opposite order has been known to create issues. If you already installed R Studio and Git, but do not see the Git Tab in R Studio then you can follow [this support page](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN) to troubleshoot. 
 
 
-#### Git
+### Git
 
 Git is a version control system that lets you track who made changes to what when and has options for easily updating a shared or public version of your code on github.com. You will need a supported web browser (current versions of Chrome, Firefox or Safari, or Internet Explorer version 9 or above).
 
@@ -55,7 +55,7 @@ You will need an account at [github.com](https://github.com/) for parts of the G
 
 Information on how to install Git for each OS is provided by [Software Carpentry](https://software-carpentry.org/) and can be found [here](install.html)
 
-#### R
+### R
 
 [R](http://www.r-project.org/) is a programming language that is especially powerful for data exploration, visualization, and statistical analysis. To interact with R, we use [RStudio](http://www.rstudio.com/).
 
@@ -69,3 +69,14 @@ Install R by downloading and running [this .exe](http://cran.r-project.org/bin/w
 If you enjoyed this workshop and were interested in learning more, I have also run workshops on [Logistic Regression](https://github.com/afilazzola/CUELogisticRegression), an [Introduction to Ecological Analyses](https://afilazzola.github.io/UoA.CommunityAnalyses.2018/), and an [Introduction to Functions](https://afilazzola.github.io/Intro2Functions/)
 
 You can find similar style workshops, usually that are longer and go into more detail, with [Software Carpentry](https://software-carpentry.org/). They have teachers available globally and cover all forms of programming beyond R. 
+
+<br>
+
+## Thank You!
+
+<br>
+
+ Center for Urban Environments         |  University of Toronto
+:-------------------------------------:|:-------------------------:
+![](images/CUElogo.png)                |  ![](images/UoT.png)
+ 
