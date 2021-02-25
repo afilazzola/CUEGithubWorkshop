@@ -26,7 +26,7 @@ Statistical software that are also programming languages, such as R, are excelle
 
 **Contact**: Please contact alex.filazzola@outlook.com for more information.
 
-[Live Notepad](http://localhost:9001/p/r.694a6019131d6fc446fee3c32f6de87d)
+[Live Notepad](https://pad.riseup.net/p/Using_R_and_GitHub__reproducibility_in_research)
 
 
 ## Schedule
